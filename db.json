@@ -1,11 +1,7 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "domains": [
+    {"domain": "one","user_id":"aaaa","sid":"bbb"},
+    {"domain": "two","user_id":"aaaa","sid":"bbb"},
+    {"domain": "tree","user_id":"aaaa","sid":"bbb"}
+    ]
 }
