@@ -1,7 +1,7 @@
 {
   "domains": [
-    {"domain": "one","user_id":"aaaa","sid":"bbb"},
-    {"domain": "two","user_id":"aaaa","sid":"bbb"},
-    {"domain": "tree","user_id":"aaaa","sid":"bbb"}
+    {"id": "one","user_id":"aaaa","sid":"bbb"},
+    {"id": "two","user_id":"aaaa","sid":"bbb"},
+    {"id": "tree","user_id":"aaaa","sid":"bbb"}
     ]
 }
